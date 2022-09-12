@@ -1,7 +1,7 @@
-#Singelton y Factory en Java
-####Implementación de Patron de diseño
+# Singelton y Factory en Java
+#### Implementación de Patron de diseño
 
-#####Objetivo
+##### Objetivo
 
 Modelar y programar en Java la implementación del Patrón de Diseño Factory.
 Enunciado
